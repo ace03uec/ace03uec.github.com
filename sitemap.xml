@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://ace03uec.github.io/blog/2013/08/19/hello-octopress/</loc>
+        <lastmod>2013-08-21T00:04:45+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://ace03uec.github.io/</loc>
+        <lastmod>2013-08-21T00:04:45+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://ace03uec.github.io/blog/archives/</loc>
+        <lastmod>2013-08-21T00:04:45+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://ace03uec.github.io/blog/categories/</loc>
+        <lastmod>2013-08-21T00:04:45+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://ace03uec.github.io/robots.txt</loc>
+        <lastmod>2013-08-19T16:26:59+05:30</lastmod>
+    </url>
+</urlset>

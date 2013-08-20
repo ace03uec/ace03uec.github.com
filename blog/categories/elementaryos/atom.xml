@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: elementaryOS | Life , Universe and The Thing]]></title>
+  <link href="http://ace03uec.github.io/blog/categories/elementaryos/atom.xml" rel="self"/>
+  <link href="http://ace03uec.github.io/"/>
+  <updated>2013-08-21T00:55:50+05:30</updated>
+  <id>http://ace03uec.github.io/</id>
+  <author>
+    <name><![CDATA[Giridaran M.]]></name>
+    <email><![CDATA[giridar123@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://ace03uec.github.io/blog/2013/08/19/hello-octopress/"/>
+    <updated>2013-08-19T16:02:00+05:30</updated>
+    <id>http://ace03uec.github.io/blog/2013/08/19/hello-octopress</id>
+    <content type="html"><![CDATA[<h3>Hello World</h3>
+
+<p>This post has been some time coming. So I won&rsquo;t keep this too long.</p>
+
+<p>This Blog is hosted on github-pages by <a href="http://octopress.org/" title="Octopress">Octopress</a>, The Blogging platform for hackers.
+Settingup did take some time, but then again that was becuase of the problems with pantheon.
+That reminds me, Been using <a href="http://elementaryos.org/" title="Elementary OS">elementaryOS</a> &ldquo;luna&rdquo; for about a week now,And i must say, WOW.
+Not to say i didn&rsquo;t have my fair share of set up worries, but then again that&rsquo;s what i love about the whole experience.</p>
+]]></content>
+  </entry>
+  
+</feed>
